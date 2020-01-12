@@ -1,9 +1,17 @@
 body {
-    background-color: silver;
+    background-color: #BBE1FA;
 }
 
 hr {
     background-color: white;
     border-style: none;
     height: 2px;
+}
+
+h1 {
+    color: #0f4c75;
+}
+
+h3 {
+    color: #0f4c75;
 }
